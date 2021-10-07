@@ -37,15 +37,6 @@
 }
 
 /* dobbelsteen #2 */
-.links{
-    background-color:grey;
-}
- .rechts{
-    background-color:darkgray;
-}
-.midden{
-    background-color:lightgray;
-}
 
 .dobbelsteen2 .dobbelsteen3{
     display: flex;
