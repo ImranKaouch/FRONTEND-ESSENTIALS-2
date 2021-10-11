@@ -11,3 +11,6 @@
     background-color: lightskyblue;
     padding: 10px;
 }
+a:hover {
+    color: red;
+  }
