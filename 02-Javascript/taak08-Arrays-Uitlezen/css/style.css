@@ -13,3 +13,10 @@ td{
     border-radius: 5px;
     padding: 10px;
 }
+
+.selected{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
