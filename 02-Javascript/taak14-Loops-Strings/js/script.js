@@ -5,5 +5,7 @@ function outputLetters(str){
     }
 }
 
+prompt("Kies een letter");
+
 var voorbeeldString = "Dit is een array van letters";
 console.log(voorbeeldString.length); // geeft terug: 
